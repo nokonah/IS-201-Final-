@@ -1,0 +1,13 @@
+body { background-color: whitesmoke; font-family: 'Gill sans', "Gill Sans MT", 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 5px 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; border: 5px solid black; padding: 20px ; margin:20px; }
+.common{ text-align: Center; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; }
+.header{ background-color: black; color: white; height: 100px; line-height: 100px;}
+.mainody{ background-color:white}
+footer { height: 25px; background-color: black; color: white;line-height: 25px ;position: fixed; bottom: 0px; left: 5px; right: 5px;}
+img { display: block; margin-left: auto; margin-right: auto; width: 25% ;}
+nav { background-color: lightgray; padding: 10px; overflow: hidden;}
+li { text-align: left; list-style-position: inside;}
+ul { margin: 0; padding: 0; list-style: inside;}
+.bold { font-weight: bold; text-decoration: underline;}
+nav { background-color: lightgray; padding: 10px; overflow: hidden;}
+nav a{ float: left; color: black; padding: 10px 13px; font-size: 16px; text-decoration: none; font-weight: bold;}
+nav a:hover{ background-color: #ccc;}
